@@ -1,0 +1,5 @@
+name = "dls-worker"
+account_id = "cd4cc86a87d4dba068686619c3b879ed"
+workers_dev = true
+compatibility_date = "2024-05-01"
+main = "src/index.js"
